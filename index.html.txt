@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV - Said Ouchen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        .title {
+            font-weight: bold;
+            color: #444;
+        }
+        p {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>CV - Said Ouchen</h1>
+
+        <section>
+            <div class="title">Nom :</div>
+            <p>Said OUCHEN</p>
+        </section>
+
+        <section>
+            <div class="title">Contact :</div>
+            <p>Email : <a href="mailto:said.ouchen@outlook.com">said.ouchen@outlook.com</a></p>
+            <p>Téléphone : +212660259557</p>
+            <p>Adresse : Rue Arabie Saudite, immouble "AL ANDALOUSS", Saada H1, 1er étage, appt 7, 90000 TANGER</p>
+        </section>
+
+        <section>
+            <div class="title">Profil :</div>
+            <p>Méthodiste aéronautique, rigoureux, méthodique et autonome, avec plus de 10 ans d'expérience. Capable de prendre des décisions rapides et de gérer des situations d'urgence avec professionnalisme.</p>
+        </section>
+
+        <section>
+            <div class="title">Formations :</div>
+            <p><strong>Formation en Usinage à commande numérique</strong>, IMA, Casablanca - Juil. 2011 à Juin 2012</p>
+            <p><strong>Technicien en réparation des Engins à Moteur</strong>, Institut Supérieur de Technologie Appliquée, Khémisset - Sept. 2006 à Juin 2008</p>
+            <p><strong>Baccalauréat science expérimentales</strong>, Lycée Moussa Ibn Nouçair, Khémisset - Sept. 2006 à Juil. 2007</p>
+        </section>
+
+        <section>
+            <div class="title">Expériences professionnelles :</div>
+            <p><strong>Consultant Ingénierie Aéronautique</strong>, DAHER, TANGER - Fév. 2024 à ce jour</p>
+            <ul>
+                <li>Préparation et maintien de la documentation technique.</li>
+                <li>Support technique aux équipes de production et de maintenance.</li>
+                <li>Formation des techniciens et opérateurs.</li>
+            </ul>
+
+            <p><strong>Technicien Méthodes & Industrialisation</strong>, Safran Aerosystems - Maroc, Tiflet - Juin 2017 à Fév. 2024</p>
+            <ul>
+                <li>Étude et formalisation des procédures de fabrication.</li>
+                <li>Optimisation de la productivité de l'atelier.</li>
+            </ul>
+
+            <p><strong>Opérateur en Assemblage électronique et électrique</strong>, Zodiac Aerospace Maroc - Janv. 2015 à Juin 2017</p>
+            <ul>
+                <li>Montage et câblage de produits aéronautiques.</li>
+            </ul>
+        </section>
+
+        <section>
+            <div class="title">Certificats :</div>
+            <p>Certificat de formation au Processus Industrialiser - Janv. 2024</p>
+            <p>Sensibilisation au Système de Management de la Sécurité aérienne SMS - Juil. 2023</p>
+            <p>Certificat E-learning AMDEC - Mai 2023</p>
+        </section>
+
+        <section>
+            <div class="title">Compétences :</div>
+            <ul>
+                <li>Excel, PowerPoint, Word, Pack Office 365</li>
+                <li>CAO: SolidWorks</li>
+                <li>ERP: SAP, Afnor M3</li>
+                <li>PLM: Agile, Teamcenter</li>
+                <li>Analyse des problématiques techniques</li>
+            </ul>
+        </section>
+
+        <section>
+            <div class="title">Langues :</div>
+            <ul>
+                <li>Français</li>
+                <li>Anglais</li>
+                <li>Arabe</li>
+                <li>Espagnol</li>
+            </ul>
+        </section>
+
+        <section>
+            <div class="title">Centres d'intérêt :</div>
+            <p>Technologie de fabrication, Amélioration continue</p>
+        </section>
+    </div>
+</body>
+</html>
